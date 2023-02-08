@@ -19,4 +19,4 @@
 <br>
 <h2 class="subtit">🔗 - Deploy</h2>
 <br>
-<p class="texto">Acesse o projeto desenvolvido por mim através deste <a href="#">link</a>.</p>
+<p class="texto">Acesse o projeto desenvolvido por mim através deste <a href="https://antlacerda.github.io/Pokedex.github.io/">link</a>.</p>
