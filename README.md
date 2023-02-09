@@ -17,6 +17,10 @@
     <img src="./img/js.png" alt="" style="width: 50px">
 </div>
 <br>
+<h2 class="subtit">🛠 - Demonstração</h2>
+<br>
+<img src="./img/demonstracao.gif">
+<br>
 <h2 class="subtit">🔗 - Deploy</h2>
 <br>
 <p class="texto">Acesse o projeto desenvolvido por mim através deste <a href="https://antlacerda.github.io/Pokedex.github.io/">link</a>.</p>
